@@ -1,0 +1,37 @@
+{
+  "brand": "光子量化",
+  "cta": {
+    "main": "立即开启策略信号试用",
+    "sub": "30 天内免费取消"
+  },
+  "nav": {
+    "about": "关于我们",
+    "live": "实盘直播",
+    "quant": "量化策略",
+    "subscription": "订阅系统",
+    "philosophy": "关于我们"
+  },
+  "dashboard": {
+    "profit": "累计收益：",
+    "drawdown": "最大回撤：",
+    "sharpe": "夏普比率：",
+    "note": "注：本图展示2022-2025年量化策略实盘收益走势（模拟初始资金：500USDT），数据来源于自动化回测与实盘回填。"
+  },
+  "subscription": {
+    "title": "订阅系统",
+    "choose": "选择订阅套餐",
+    "desc": "订阅后可自动绑定 Telegram 通道，获取实时信号推送，并获得 API Token 用于自动跟单。",
+    "pay": "使用 Stripe 支付订阅",
+    "success": "已订阅",
+    "token": "API Token：",
+    "tg": "Telegram 通道绑定：",
+    "bind": "一键绑定 Telegram",
+    "cancel": "如需取消订阅，请联系客服。",
+    "mock": "本功能为演示，支付与绑定流程为 mock，后续可无缝对接 Stripe 与 Telegram API。"
+  },
+  "footer": {
+    "slogan": "",
+    "copyright": "© {year} 光子量化 | 同频 • 共振"
+  },
+  "philosophy": "以哲学觉知为底色，融合量化理性与宇宙感，致力于为高净值用户提供极简、自动化的财富增值体验。"
+} 

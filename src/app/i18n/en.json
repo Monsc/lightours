@@ -1,0 +1,36 @@
+{
+  "brand": "Lightours",
+  "cta": {
+    "main": "Start Free Strategy Signal Trial",
+    "sub": "Cancel free within 30 days"
+  },
+  "nav": {
+    "about": "About Us",
+    "live": "Live Trading",
+    "quant": "Quant Strategies",
+    "subscription": "Subscription"
+  },
+  "dashboard": {
+    "profit": "Total Return:",
+    "drawdown": "Max Drawdown:",
+    "sharpe": "Sharpe Ratio:",
+    "note": "Note: This chart shows the live performance of quant strategies from 2022-2025 (simulated initial capital: 500 USDT), based on automated backtesting and live data."
+  },
+  "subscription": {
+    "title": "Subscription",
+    "choose": "Choose a Plan",
+    "desc": "After subscribing, you can automatically bind to the Telegram channel to receive real-time signals and get an API Token for auto-copy trading.",
+    "pay": "Subscribe with Stripe",
+    "success": "Subscribed",
+    "token": "API Token:",
+    "tg": "Telegram Channel:",
+    "bind": "Bind Telegram",
+    "cancel": "To cancel your subscription, please contact support.",
+    "mock": "This is a demo. Payment and binding are mocked. Stripe and Telegram API can be integrated seamlessly later."
+  },
+  "footer": {
+    "slogan": "Sleep like the universe, awaken like a photon",
+    "copyright": "© {year} Photon Quant | Resonance"
+  },
+  "philosophy": "With philosophical awareness as the foundation, integrating quantitative rationality and cosmic sense, we are committed to providing high-net-worth users with a minimalist, automated wealth growth experience."
+} 
