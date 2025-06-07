@@ -1,8 +1,8 @@
 {
   "brand": "Lightours",
   "cta": {
-    "main": "Start Free Strategy Signal Trial",
-    "sub": "Cancel free within 30 days"
+    "main": "Start Strategy Signal Trial",
+    "sub": "Free within 30 days"
   },
   "nav": {
     "about": "About Us",
@@ -15,7 +15,7 @@
     "profit": "Total Return:",
     "drawdown": "Max Drawdown:",
     "sharpe": "Sharpe Ratio:",
-    "note": "Note: This chart shows the live performance of quant strategies from 2022-2025 (simulated initial capital: 500 USDT), based on automated backtesting and live data.",
+    "note": "Note: This chart shows the live performance of quant strategies from 2022-2025 (initial capital: 500 USDT), based on automated backtesting and live data.",
     "strategy_main": "Main Strategy",
     "cumulative": "Cumulative Return (%)",
     "dailyReturn": "Daily Return (%)"
