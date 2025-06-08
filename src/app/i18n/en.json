@@ -1,24 +1,20 @@
 {
   "brand": "Lightours",
   "cta": {
-    "main": "Start Strategy Signal Trial",
-    "sub": "Free within 30 days"
+    "main": "Start Free Strategy Signal Trial",
+    "sub": "Cancel free within 30 days"
   },
   "nav": {
     "about": "About Us",
     "live": "Live Trading",
     "quant": "Quant Strategies",
-    "subscription": "Subscription",
-    "philosophy": "About Us"
+    "subscription": "Subscription"
   },
   "dashboard": {
     "profit": "Total Return:",
     "drawdown": "Max Drawdown:",
     "sharpe": "Sharpe Ratio:",
-    "note": "Note: This chart shows the live performance of quant strategies from 2022-2025 (initial capital: 500 USDT), based on automated backtesting and live data.",
-    "strategy_main": "Main Strategy",
-    "cumulative": "Cumulative Return (%)",
-    "dailyReturn": "Daily Return (%)"
+    "note": "Note: This chart shows the live performance of quant strategies from 2022-2025 (simulated initial capital: 500 USDT), based on automated backtesting and live data."
   },
   "subscription": {
     "title": "Subscription",
@@ -30,37 +26,11 @@
     "tg": "Telegram Channel:",
     "bind": "Bind Telegram",
     "cancel": "To cancel your subscription, please contact support.",
-    "mock": "This is a demo. Payment and binding are mocked. Stripe and Telegram API can be integrated seamlessly later.",
-    "plan_month": "Monthly Plan",
-    "plan_month_desc": "For trial/short-term",
-    "plan_quarter": "Quarterly Plan",
-    "plan_quarter_desc": "Cost-effective/long-term",
-    "plan_year": "Yearly Plan",
-    "plan_year_desc": "VIP/Exclusive Service",
-    "token_tip": "Please keep it safe and do not disclose."
+    "mock": "This is a demo. Payment and binding are mocked. Stripe and Telegram API can be integrated seamlessly later."
   },
   "footer": {
-    "slogan": "",
+    "slogan": "Sleep like the universe, awaken like a photon",
     "copyright": "© {year} Photon Quant | Resonance"
   },
-  "philosophy": {
-    "title": "Philosophy / Brand Introduction"
-  },
-  "recruit": {
-    "title": "Join Lightours · Create the Future Together",
-    "role1": "Senior Strategy Researcher",
-    "role1desc": "Responsible for quant strategy R&D, backtesting and live optimization. Finance/math/coding background required.",
-    "role2": "Full Stack Developer",
-    "role2desc": "Responsible for full-stack development. Familiar with React/Node.js required.",
-    "role3": "Compliance Officer",
-    "role3desc": "Responsible for compliance, policy interpretation and system building. Relevant experience required.",
-    "emailprefix": "Send your resume to"
-  },
-  "quantcore": {
-    "title": "Quant Automation Core",
-    "placeholder": "Quant core placeholder"
-  },
-  "comment": {
-    "user1": "\"Stable strategy, accurate signals, great experience!\" — Lightours"
-  }
+  "philosophy": "With philosophical awareness as the foundation, integrating quantitative rationality and cosmic sense, we are committed to providing high-net-worth users with a minimalist, automated wealth growth experience."
 } 

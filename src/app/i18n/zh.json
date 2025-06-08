@@ -1,8 +1,8 @@
 {
   "brand": "光子量化",
   "cta": {
-    "main": "开启量化交易/接收交易信号",
-    "sub": "30 天免费试用"
+    "main": "立即开启策略信号试用",
+    "sub": "30 天内免费取消"
   },
   "nav": {
     "about": "关于我们",
@@ -15,10 +15,7 @@
     "profit": "累计收益：",
     "drawdown": "最大回撤：",
     "sharpe": "夏普比率：",
-    "note": "注：本图展示2022-2025年量化策略实盘收益走势（初始资金：500USDT），数据来源于自动化回测与实盘回填。",
-    "strategy_main": "主策略",
-    "cumulative": "累计收益(%)",
-    "dailyReturn": "每日收益率(%)"
+    "note": "注：本图展示2022-2025年量化策略实盘收益走势（模拟初始资金：500USDT），数据来源于自动化回测与实盘回填。"
   },
   "subscription": {
     "title": "订阅系统",
@@ -30,37 +27,11 @@
     "tg": "Telegram 通道绑定：",
     "bind": "一键绑定 Telegram",
     "cancel": "如需取消订阅，请联系客服。",
-    "mock": "本功能为演示，支付与绑定流程为 mock，后续可无缝对接 Stripe 与 Telegram API。",
-    "plan_month": "月付套餐",
-    "plan_month_desc": "适合体验/短期跟单",
-    "plan_quarter": "季付套餐",
-    "plan_quarter_desc": "性价比高/长期持有",
-    "plan_year": "年付套餐",
-    "plan_year_desc": "年度VIP/专属服务",
-    "token_tip": "请妥善保存，勿泄露。"
+    "mock": "本功能为演示，支付与绑定流程为 mock，后续可无缝对接 Stripe 与 Telegram API。"
   },
   "footer": {
     "slogan": "",
     "copyright": "© {year} 光子量化 | 同频 • 共振"
   },
-  "philosophy": {
-    "title": "哲学理念 / 品牌介绍"
-  },
-  "recruit": {
-    "title": "加入光子量化 · 共创未来",
-    "role1": "高级策略研究员",
-    "role1desc": "负责量化策略研发、回测与实盘优化，需有金融/数学/编程背景。",
-    "role2": "全栈开发工程师",
-    "role2desc": "负责平台前后端开发，需熟悉 React/Node.js。",
-    "role3": "合规负责人",
-    "role3desc": "负责合规风控、政策解读与合规体系建设，需有相关经验。",
-    "emailprefix": "欢迎投递简历至"
-  },
-  "quantcore": {
-    "title": "量化自动化核心策略",
-    "placeholder": "量化核心占位"
-  },
-  "comment": {
-    "user1": "“策略很稳，信号很准，体验极佳！” —— 光子量化"
-  }
+  "philosophy": "以哲学觉知为底色，融合量化理性与宇宙感，致力于为高净值用户提供极简、自动化的财富增值体验。"
 } 
